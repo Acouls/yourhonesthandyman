@@ -302,3 +302,6 @@ nav a:last-child:hover {
 header {
     padding-bottom: 60px;
 }
+header .button {
+    margin-bottom: 40px;
+}
